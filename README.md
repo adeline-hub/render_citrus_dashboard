@@ -21,8 +21,8 @@ Present world citrus production is **98.7 million tons**, with:
 
 <table>
   <tr>
-    <td><img src="https://github.com/adeline-hub/render_citrus_dashboard/blob/main/citrus-distribution.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/adeline-hub/render_citrus_dashboard/blob/main/citrus-production.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/adeline-hub/render_citrus_dashboard/blob/main/citrus-production2.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/adeline-hub/render_citrus_dashboard/blob/main/citrus-distribution.png?raw=true" width="300"></td>
+    <td><img src="https://github.com/adeline-hub/render_citrus_dashboard/blob/main/citrus-production.png?raw=true" width="300"></td>
+    <td><img src="https://github.com/adeline-hub/render_citrus_dashboard/blob/main/citrus-production2.png?raw=true" width="300"></td>
   </tr>
 </table>
